@@ -115,6 +115,7 @@
 - [Python之禅 - FooFish-Python之禅](https://foofish.net/) 
 - [keakon的涂鸦馆](https://www.keakon.net/)
 - [simpleapples](http://www.simpleapples.com/)
+- [I'm vimiix](https://www.vimiix.com)
 
 ### 实践项目
 
@@ -123,7 +124,6 @@
 - [Python 的练手项目有哪些值得推荐？ -知乎](https://www.zhihu.com/question/29372574)
 - [Python 开发小技巧 - 编程小技巧](https://www.oudahe.com/p/python/) 
 - [用Python从零开始创建区块链 | 深入浅出区块链](https://learnblockchain.cn/2017/10/27/build_blockchain_by_python/)
-
 - [Python中文学习大本营](http://www.pythondoc.com/) 
 - [开源库 -掘金](https://juejin.im/repos/filtered?tag=Python)
 - [教你阅读Python开源项目代码](https://zhuanlan.zhihu.com/p/22275595?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
